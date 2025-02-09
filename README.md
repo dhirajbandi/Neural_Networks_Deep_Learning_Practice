@@ -1,7 +1,7 @@
 # Neural Network Practice Repository
 
 ## Overview
-This repository contains a series of Jupyter notebooks where I (Dhiraj Bandi) have explored various neural network architectures, hyperparameter tuning, and dataset applications.
+This repository contains a series of Jupyter notebooks where I have explored various neural network architectures, hyperparameter tuning, and dataset applications.
 
 ## Notebooks
 
@@ -63,7 +63,6 @@ This repository contains a series of Jupyter notebooks where I (Dhiraj Bandi) ha
 ## Author
 **Dhiraj Bandi**  
 Email: dhirajbandi2000@gmail.com  
-GitHub: [your-github-profile]
 
 ---
-This repository is for educational purposes and contains experiments in deep learning.
+This repository is for educational purposes and contains practice material in deep learning.
