@@ -62,7 +62,7 @@ This repository contains a series of Jupyter notebooks where I have explored var
 
 ## Author
 **Dhiraj Bandi**  
-Email: dhirajbandi2000@gmail.com  
+Email: dhirajbandiwork@gmail.com  
 
 ---
 This repository is for educational purposes and contains practice material in deep learning.
